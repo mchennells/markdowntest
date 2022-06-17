@@ -2,7 +2,9 @@
 title: "Testing R Markdown -- the easy way!"
 author: "Matt Chennowitz"
 date: '2022-06-17'
-output: html_document
+output: github_document
+  # html_document: 
+  #   keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
